@@ -5,3 +5,7 @@
 .plonkContainer {
     display: none;
 }
+
+#song {
+    display: block;
+}
